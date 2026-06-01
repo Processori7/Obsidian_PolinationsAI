@@ -1,6 +1,26 @@
-# Pollinations AI Chat Plugin для Obsidian
+# Polinations AI Chat
 
-[English version](README_EN.md)
+[English](README_EN.md) | [Русский](#)
+
+A plugin for integration with Pollinations AI API, allowing you to chat with various AI models and generate images directly from Obsidian with automatic saving to notes.
+
+## Features
+
+- 🤖 Chat with various AI models via Pollinations API
+- 🎨 AI image generation (Flux, Turbo, Zimage, and more)
+- 💾 Automatic saving of conversations and images to notes
+- ⚡ Quick questions with instant answer saving
+- 🌍 Multilingual interface (English / Русский)
+- 🔒 Free models filter for working without API key
+- 🎭 Beautiful interface with dark/light theme
+- 📱 Responsive design for mobile devices
+- 🔧 Flexible settings
+
+[Full English README →](README_EN.md)
+
+---
+
+# Polinations AI Chat — плагин для Obsidian
 
 Плагин для интеграции с Pollinations AI API, позволяющий общаться с различными ИИ моделями и генерировать изображения прямо из Obsidian с сохранением результатов в заметки.
 

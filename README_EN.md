@@ -1,4 +1,4 @@
-# Pollinations AI Chat Plugin for Obsidian
+# Polinations AI Chat
 
 [Русская версия](README.md)
 
